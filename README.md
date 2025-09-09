@@ -286,11 +286,7 @@ Progress: "▓▓▓▓▓▓▓▓░░ 80%"
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
@@ -298,10 +294,6 @@ Progress: "▓▓▓▓▓▓▓▓░░ 80%"
 
 **⭐ From [Heshan Sathyanga](https://github.com/HeshanSathyanga) with ❤️**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Always+coding+with+passion!+💻;Connect+with+me+for+collaborations!+🤝" alt="Footer Animation" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-</div>
 
 </div>
