@@ -1,4 +1,4 @@
-# 👋 Welcome to Heshan's Digital Universe! 
+# 👋 Welcome to Reza's Digital Universe! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
@@ -10,26 +10,50 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
-- 👨‍💻 **Name**: Heshan Sathyanga  
-- 📍 **Location**: Sri Lanka 🇱🇰  
-- 💼 **Role**: Software Engineer & Tech Enthusiast  
-- 🕐 **Experience**: 4+ years  
-- ❤️ **Passion**: Clean Code, Innovation, Knowledge Sharing  
-- 🎯 **Current Focus**: Building scalable apps & mentoring devs  
-- ☕ **Daily Routine**: Coffee → Code Review → Feature Dev → Learning → Open Source  
-- ✨ **Life Philosophy**: *Code with purpose, learn continuously, share knowledge!*  
+<div align="center">
+  
+### 👨‍💻 Quick Overview
+**Software Engineer** | **Full Stack Developer** | **Tech Enthusiast**  
+📍 Iran 🇮🇷 | 💼 10+ Years Experience | 🚀 Passionate about Innovation
 
+</div>
 
+<details>
+<summary><b>🔍 More About Me (Click to expand)</b></summary>
+
+<br>
+
+```typescript
+const rezaShakeri = {
+    name: "Reza Shakeri",
+    location: "Iran 🇮🇷",
+    role: "Software Engineer & Tech Enthusiast",
+    experience: "10+ years",
+    passion: ["Clean Code", "Innovation", "Knowledge Sharing"],
+    currentFocus: "Building scalable applications & mentoring developers",
+    
+    dailyRoutine: {
+        morning: "☕ Coffee + Code Review",
+        afternoon: "🚀 Feature Development", 
+        evening: "📚 Learning New Technologies",
+        night: "🌙 Open Source Contributions"
+    },
+    
+    lifePhilosophy: "Code with purpose, learn continuously, share knowledge! ✨"
+};
+
+console.log("Welcome to my digital world! 🌟");
 ```
 
-### 🎯 Quick Facts
-- 🔭 Currently working on **exciting web applications**
-- 🌱 Learning **advanced system architecture patterns**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Java, Python, React, Web Development**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+### 🎯 What Drives Me
+- **Clean Architecture**: Building maintainable and scalable solutions
+- **Continuous Learning**: Always exploring new technologies and methodologies  
+- **Community Impact**: Contributing to open source and mentoring developers
+- **Innovation**: Turning complex problems into elegant solutions
+
+</details>
 
 ---
 
