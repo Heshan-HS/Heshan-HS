@@ -166,18 +166,22 @@ console.log("Welcome to my digital world! 🌟");
 
 ## 🎯 Current Goals
 
-```javascript
-const currentGoals2024 = [
-    "🚀 Master advanced system architecture patterns",
-    "📱 Expand mobile development expertise", 
-    "🤖 Dive deeper into AI/ML integration",
-    "🌍 Contribute to more open-source projects",
-    "📚 Share knowledge through technical blogging",
-    "🎯 Mentor junior developers in the community"
+<div align="center">
+
+### 🚀 2024 Roadmap
+
+**const** currentGoals2024 = [  
+&nbsp;&nbsp;&nbsp;&nbsp;"🚀 Master advanced system architecture patterns",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📱 Expand mobile development expertise",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🤖 Dive deeper into AI/ML integration",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🌍 Contribute to more open-source projects",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📚 Share knowledge through technical blogging",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🎯 Mentor junior developers in the community"  
 ];
 
 console.log("Every commit is a step toward these goals! 💪");
-```
+
+</div>
 
 ---
 
