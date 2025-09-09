@@ -1,16 +1,16 @@
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-card/profile-details-card.svg" alt="Heshan Sathyanga" width="800"/>
-<h1>නමස්කාර! 👋 මම Heshan Sathyanga</h1>
-<h3>නවීන තාක්ෂණයට අසීමිතව ආදරය කරන ශ්‍රී ලාංකික මෘදුකාංග ඉංජිනේරුවෙක්</h3>
+<h1>Hello! 👋 I'm Heshan Sathyanga</h1>
+<h3>A Software Engineer from Sri Lanka with a passion for modern technology</h3>
 </div>
 
 <br>
 
 <div align="center">
-<p>මම තාක්ෂණයේ නව ප්‍රවණතා සමඟ නිරන්තරයෙන් අලුත් වන, නිර්මාණශීලී ගැටළු විසඳන්නෙක්. මගේ ප්‍රධානම අරමුණ වන්නේ නවීන සහ භාවිතයට පහසු මෘදුකාංග විසඳුම් හරහා සැබෑ ලෝකයේ ගැටළු වලට පිළිතුරු සැපයීමයි. <br> මේ GitHub profile එක මගේ ගමනේ තියෙන සන්ධිස්ථාන සහ මම දායක වුණු ව්‍යාපෘති වල එකතුවක්.</p>
+<p>I am a creative problem-solver, constantly evolving with the latest technological trends. My primary goal is to provide solutions to real-world problems through modern and user-friendly software. <br> This GitHub profile is a collection of milestones and projects I have contributed to on my journey.</p>
 </div>
 
-💻 මගේ ප්‍රධාන නිපුණතා (Skills)
+💻 My Core Skills
 Programming Languages
 
 Frameworks & Libraries
@@ -27,16 +27,16 @@ Tools & Platforms
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
 
-📊 මගේ GitHub විස්තර
+📊 My GitHub Details
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHeshanSathyanga%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Heshan's GitHub stats"/>
 <br/>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHeshanSathyanga%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Heshan's Top Languages"/>
 </div>
 
-🤝 මාව සම්බන්ධ කරගන්න
+🤝 Connect with me
 <div align="center">
-<p>මෘදුකාංග සංවර්ධනය, නව ව්‍යාපෘති හෝ වෙනත් යම් දෙයක් ගැන කතා කරන්න ඕන නම්, මාව පහතින් සම්බන්ධ කරගන්න!</p>
+<p>If you'd like to chat about software development, new projects, or anything else, feel free to connect with me below!</p>
 <a href="<YOUR_LINKEDIN_PROFILE_URL>" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
