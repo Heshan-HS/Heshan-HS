@@ -1,173 +1,134 @@
-# 🌟 Heshan Sathyanga | Software Engineer
+# 👋 Welcome to Heshan's Digital Universe! 
 
 <div align="center">
-  <h3>💻 Full Stack Developer | 🚀 Tech Enthusiast | ⚡ Clean Code Advocate</h3>
-  <p><strong>🇱🇰 Sri Lanka</strong> • <strong>4+ Years Experience</strong> • <strong>Innovation Focused</strong></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=heshansathyanga&color=0969da&style=flat-square&label=Profile+Views)
-  ![GitHub followers](https://img.shields.io/github/followers/heshansathyanga?logo=github&style=flat-square&color=0969da)
-  ![GitHub Stars](https://img.shields.io/github/stars/heshansathyanga?logo=github&style=flat-square&color=0969da)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-> **Passionate Software Engineer** who believes in writing clean, maintainable code and building scalable solutions that make a difference.
+<div align="center">
+  
+### 👨‍💻 Quick Overview
+**Software Engineer** | **Full Stack Developer** | **Tech Enthusiast**  
+📍 Iran 🇮🇷 | 💼 10+ Years Experience | 🚀 Passionate about Innovation
 
-```javascript
-const heshansathyanga = {
-    name: "Heshan Sathyanga",
-    title: "Software Engineer & Tech Enthusiast",
-    location: "Colombo, Sri Lanka 🇱🇰",
-    experience: "4+ years in software development",
-    
-    specialties: [
-        "Full Stack Web Development",
-        "Clean Architecture & Design Patterns", 
-        "API Development & Integration",
-        "Database Design & Optimization"
-    ],
-    
-    currentFocus: [
-        "Building scalable web applications",
-        "Learning cloud technologies",
-        "Open source contributions",
-        "Mentoring junior developers"
-    ],
-    
-    dailyTools: ["VS Code", "Git", "Docker", "Postman"],
-    favoriteTech: ["Python", "Django", "JavaScript", "PostgreSQL"],
-    
-    workStyle: {
-        approach: "Problem-solver with attention to detail",
-        philosophy: "Code with purpose, learn continuously",
-        teamwork: "Collaborative and knowledge-sharing focused"
-    }
+</div>
+
+<details>
+<summary><b>🔍 More About Me (Click to expand)</b></summary>
+
+<br>
+
+<div align="center">
+
+### 💫 Developer Profile
+
+**const** rezaShakeri = {  
+&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
+&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
+&nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
+&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "4+ years",  
+&nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
+&nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dailyRoutine**: {  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morning: "☕ Coffee + Code Review",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afternoon: "🚀 Feature Development",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evening: "📚 Learning New Technologies",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;night: "🌙 Open Source Contributions"  
+&nbsp;&nbsp;&nbsp;&nbsp;},  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**lifePhilosophy**: "Code with purpose, learn continuously, share knowledge! ✨"  
 };
-```
+
+console.log("Welcome to my digital world! 🌟");
+
+</div>
 
 ### 🎯 What Drives Me
-- **🏗️ Clean Architecture** → Writing maintainable, scalable code
-- **📚 Continuous Learning** → Staying updated with latest technologies  
-- **🤝 Team Collaboration** → Sharing knowledge and mentoring others
-- **🚀 Innovation** → Building solutions that solve real problems
+- **Clean Architecture**: Building maintainable and scalable solutions
+- **Continuous Learning**: Always exploring new technologies and methodologies  
+- **Community Impact**: Contributing to open source and mentoring developers
+- **Innovation**: Turning complex problems into elegant solutions
+
+</details>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Frameworks & Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🗄️ Databases & Storage
+### Frontend Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend & Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Testing & Quality
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Monitoring & Analytics
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=heshansathyanga&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshansathyanga&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshansathyanga&theme=dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heshansathyanga&theme=react-dark&hide_border=true&area=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
-
----
-
-## 🏆 Achievements
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heshansathyanga&theme=dark&no-frame=true&column=4&margin-w=15&margin-h=15)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-### 🎯 Professional Highlights
-
-| 💼 Experience | 🛠️ Technical Skills | 🌐 Contributions | 🎯 Focus Areas |
-|:---:|:---:|:---:|:---:|
-| **4+ Years** | **Multiple Stacks** | **Open Source** | **Innovation** |
-| Software Development | Full Stack Expertise | Community Involvement | Problem Solving |
-| Team Collaboration | Clean Code Practices | Knowledge Sharing | Continuous Learning |
-
 ---
 
-## 🎯 Current Goals & Learning Path
+## 🏆 Achievements & Milestones
 
-### 🚀 2024 Roadmap
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rzashakeri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-- **🏗️ System Architecture** → Mastering microservices and scalable designs
-- **☁️ Cloud Technologies** → Deep dive into AWS/Azure services  
-- **📱 Mobile Development** → Expanding to React Native/Flutter
-- **🤖 AI Integration** → Incorporating ML/AI features in applications
-- **📝 Technical Writing** → Sharing knowledge through blogs and tutorials
-
-### 📚 Currently Learning
-- Advanced Django patterns and optimization
-- Cloud deployment strategies
-- Modern JavaScript frameworks
-- Database performance tuning
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Key Projects & Contributions
-- **Web Applications**: Built multiple full-stack applications using Django/React
-- **API Development**: Designed and implemented RESTful APIs for various clients  
-- **Database Optimization**: Improved query performance and database design
-- **Team Leadership**: Mentored junior developers and led technical discussions
-
-### 🔹 Expertise Areas
-- **Backend Development**: Python/Django, C#/.NET, API design
-- **Frontend Development**: React, JavaScript, responsive design
-- **Database Management**: PostgreSQL, MySQL, query optimization
-- **DevOps Practices**: Docker, CI/CD, deployment automation
+### 🎯 Career Highlights
+- 🚀 **10+ Years** of software development experience
+- 🔧 **Multiple Technologies** mastered across full-stack development
+- 📦 **Open Source Contributor** with active community involvement
+- 🎓 **Knowledge Sharing** through social media and content creation
+- 💡 **Innovation Focus** on scalable and maintainable solutions
 
 ---
 
@@ -175,63 +136,68 @@ const heshansathyanga = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heshansathyanga)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heshansathyanga)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heshansathyanga)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heshan.dev)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@heshansathyanga)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heshansathyanga)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshan@example.com)
-
-</div>
-
-### 💬 Let's Collaborate!
-- 🚀 **Open to**: Full-time opportunities, freelance projects, collaborations
-- 🎓 **Available for**: Technical mentoring, code reviews, consulting
-- 💡 **Interested in**: Innovative projects, open source contributions
-- 📧 **Contact me**: For professional inquiries and networking
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-
-| 🔥 **Developer Life** | 🎯 **Personal Interests** |
-|:---:|:---:|
-| ☕ Coffee enthusiast (5+ cups daily) | 🎮 Strategy & puzzle games |
-| 🌙 Most productive after 10 PM | 📚 Tech blogs & documentation reader |
-| 🐛 Console.log() debugging champion | 🏃‍♂️ Running & fitness enthusiast |
-| 🎵 Lo-fi Hip Hop coding sessions | 🌱 Always learning new tech |
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rzashakeri)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rzashakeri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rzashakeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezashakeri)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rezashakeri.com)
 
 </div>
 
 ---
 
-## 📈 Weekly Development Activity
+## 📈 Coding Journey
 
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████████░   80.2%
-JavaScript   ███████░░░░░░░░░░░░░░░   15.3%
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░    3.1%
-Others       █░░░░░░░░░░░░░░░░░░░░░    1.4%
-```
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rzashakeri&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+### 🚀 2024 Roadmap
+
+**const** currentGoals2024 = [  
+&nbsp;&nbsp;&nbsp;&nbsp;"🚀 Master advanced system architecture patterns",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📱 Expand mobile development expertise",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🤖 Dive deeper into AI/ML integration",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🌍 Contribute to more open-source projects",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📚 Share knowledge through technical blogging",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🎯 Mentor junior developers in the community"  
+];
+
+console.log("Every commit is a step toward these goals! 💪");
+
+</div>
 
 ---
 
 <div align="center">
+  
+### ⚡ Fun Fact
+*I debug with `console.log()` and I'm not ashamed of it! 😄*
 
-## 💭 Developer Quote
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-*"The best code is not just working code, but code that tells a story and can be understood by the next developer."*
+<img src="https://komarev.com/ghpvc/?username=rzashakeri&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
 
 ---
 
-**Thanks for visiting my profile! Feel free to reach out for collaborations or just a tech chat! 🚀**
-
-*Last updated: January 2024*
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
