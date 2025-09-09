@@ -19,21 +19,28 @@
 <td width="50%" valign="top">
 
 ### 🌟 Who Am I?
-```javascript
-const heshan = {
-    name: "Heshan Sathyanga",
-    title: "Software Engineer",
-    location: "🇱🇰 Sri Lanka",
-    passion: "Creating Digital Magic ✨",
-    mission: "Code • Create • Innovate",
-    status: "Always Learning 📚",
-    coffee: "☕ >= 5 cups/day",
-    debugMode: true,
-    creativity: Infinity
-};
 
-console.log("Building the future, one commit at a time! 🚀");
-```
+<div align="center">
+
+**🚀 Software Engineer** | **💻 Full Stack Developer** | **🌟 Problem Solver**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+
+</div>
+
+🎯 **Passionate about creating digital solutions that make a difference**  
+🌍 **Based in Sri Lanka** 🇱🇰  
+💡 **Always learning new technologies and exploring innovative ideas**  
+☕ **Powered by coffee and curiosity**  
+🎨 **Turning complex problems into elegant solutions**  
+
+<div align="center">
+
+**💫 "Building the future, one commit at a time!" 🚀**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+
+</div>
 
 </td>
 <td width="50%" valign="top">
