@@ -13,9 +13,9 @@
 ## 🌟 About Me
 
 ```typescript
-const rezaShakeri = {
+const heshanSathyanga = {
     name: "Heshan Sathyanga",
-    location: "Sri Lanka",
+    location: "Sri Lanka 🇱🇰",
     role: "Software Engineer & Tech Enthusiast",
     experience: "4+ years",
     passion: ["Clean Code", "Innovation", "Knowledge Sharing"],
@@ -31,6 +31,13 @@ const rezaShakeri = {
     lifePhilosophy: "Code with purpose, learn continuously, share knowledge! ✨"
 };
 ```
+
+### 🎯 Quick Facts
+- 🔭 Currently working on **exciting web applications**
+- 🌱 Learning **advanced system architecture patterns**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **Java, Python, React, Web Development**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 ---
 
