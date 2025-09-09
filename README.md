@@ -12,24 +12,28 @@
 
 ## 🌟 About Me
 
-```typescript
+
+
+```javascript
 const heshanSathyanga = {
-    name: "Heshan Sathyanga",
+    name: "Heshan Sathyanga 🚀",
     location: "Sri Lanka 🇱🇰",
-    role: "Software Engineer & Tech Enthusiast",
+    role: "Software Engineer & Tech Enthusiast 💻",
     experience: "4+ years",
-    passion: ["Clean Code", "Innovation", "Knowledge Sharing"],
+    passion: ["✨ Clean Code", "💡 Innovation", "📢 Knowledge Sharing"],
     currentFocus: "Building scalable applications & mentoring developers",
-    
+
     dailyRoutine: {
         morning: "☕ Coffee + Code Review",
-        afternoon: "🚀 Feature Development", 
+        afternoon: "🚀 Feature Development",
         evening: "📚 Learning New Technologies",
         night: "🌙 Open Source Contributions"
     },
-    
-    lifePhilosophy: "Code with purpose, learn continuously, share knowledge! ✨"
+
+    lifePhilosophy: 
+      "Code with purpose, learn continuously, and share knowledge! 🌟"
 };
+
 ```
 
 ### 🎯 Quick Facts
