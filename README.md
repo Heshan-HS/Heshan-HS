@@ -1,203 +1,53 @@
-# 👋 Welcome to Heshan's Digital Universe! 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-card/profile-details-card.svg" alt="Heshan Sathyanga" width="800"/>
+<h1>නමස්කාර! 👋 මම Heshan Sathyanga</h1>
+<h3>නවීන තාක්ෂණයට අසීමිතව ආදරය කරන ශ්‍රී ලාංකික මෘදුකාංග ඉංජිනේරුවෙක්</h3>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌟 About Me
-
-<div align="center">
-  
-### 👨‍💻 Quick Overview
-**Software Engineer** | **Full Stack Developer** | **Tech Enthusiast**  
-📍 Iran 🇮🇷 | 💼 10+ Years Experience | 🚀 Passionate about Innovation
-
-</div>
-
-<details>
-<summary><b>🔍 More About Me (Click to expand)</b></summary>
 
 <br>
 
 <div align="center">
-
-### 💫 Developer Profile
-
-**const** rezaShakeri = {  
-&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
-&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
-&nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
-&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "4+ years",  
-&nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
-&nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
-
-&nbsp;&nbsp;&nbsp;&nbsp;**dailyRoutine**: {  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morning: "☕ Coffee + Code Review",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afternoon: "🚀 Feature Development",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evening: "📚 Learning New Technologies",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;night: "🌙 Open Source Contributions"  
-&nbsp;&nbsp;&nbsp;&nbsp;},  
-
-&nbsp;&nbsp;&nbsp;&nbsp;**lifePhilosophy**: "Code with purpose, learn continuously, share knowledge! ✨"  
-};
-
-console.log("Welcome to my digital world! 🌟");
-
+<p>මම තාක්ෂණයේ නව ප්‍රවණතා සමඟ නිරන්තරයෙන් අලුත් වන, නිර්මාණශීලී ගැටළු විසඳන්නෙක්. මගේ ප්‍රධානම අරමුණ වන්නේ නවීන සහ භාවිතයට පහසු මෘදුකාංග විසඳුම් හරහා සැබෑ ලෝකයේ ගැටළු වලට පිළිතුරු සැපයීමයි. <br> මේ GitHub profile එක මගේ ගමනේ තියෙන සන්ධිස්ථාන සහ මම දායක වුණු ව්‍යාපෘති වල එකතුවක්.</p>
 </div>
 
-### 🎯 What Drives Me
-- **Clean Architecture**: Building maintainable and scalable solutions
-- **Continuous Learning**: Always exploring new technologies and methodologies  
-- **Community Impact**: Contributing to open source and mentoring developers
-- **Innovation**: Turning complex problems into elegant solutions
+💻 මගේ ප්‍රධාන නිපුණතා (Skills)
+Programming Languages
 
-</details>
+Frameworks & Libraries
 
----
+Databases
 
-## 🛠️ Tech Arsenal
+Tools & Platforms
 
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript">
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Express-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django">
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
+
+📊 මගේ GitHub විස්තර
 <div align="center">
-
-### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Frontend Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend & Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Testing & Quality
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### Monitoring & Analytics
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
-
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHeshanSathyanga%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Heshan's GitHub stats"/>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHeshanSathyanga%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Heshan's Top Languages"/>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
+🤝 මාව සම්බන්ධ කරගන්න
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p>මෘදුකාංග සංවර්ධනය, නව ව්‍යාපෘති හෝ වෙනත් යම් දෙයක් ගැන කතා කරන්න ඕන නම්, මාව පහතින් සම්බන්ධ කරගන්න!</p>
+<a href="<YOUR_LINKEDIN_PROFILE_URL>" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="<YOUR_TWITTER_PROFILE_URL>" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X (Twitter)">
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rzashakeri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-### 🎯 Career Highlights
-- 🚀 **10+ Years** of software development experience
-- 🔧 **Multiple Technologies** mastered across full-stack development
-- 📦 **Open Source Contributor** with active community involvement
-- 🎓 **Knowledge Sharing** through social media and content creation
-- 💡 **Innovation Focus** on scalable and maintainable solutions
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rzashakeri)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rzashakeri)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rzashakeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezashakeri)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rezashakeri.com)
-
-</div>
-
----
-
-## 📈 Coding Journey
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rzashakeri&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-### 🚀 2024 Roadmap
-
-**const** currentGoals2024 = [  
-&nbsp;&nbsp;&nbsp;&nbsp;"🚀 Master advanced system architecture patterns",  
-&nbsp;&nbsp;&nbsp;&nbsp;"📱 Expand mobile development expertise",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🤖 Dive deeper into AI/ML integration",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🌍 Contribute to more open-source projects",  
-&nbsp;&nbsp;&nbsp;&nbsp;"📚 Share knowledge through technical blogging",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🎯 Mentor junior developers in the community"  
-];
-
-console.log("Every commit is a step toward these goals! 💪");
-
-</div>
-
----
-
-<div align="center">
-  
-### ⚡ Fun Fact
-*I debug with `console.log()` and I'm not ashamed of it! 😄*
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=rzashakeri&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DHeshanSathyanga%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile views"/>
 </div>
