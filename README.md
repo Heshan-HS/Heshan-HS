@@ -1,4 +1,4 @@
-# 👋 Welcome to Reza's Digital Universe! 
+# 👋 Welcome to Heshan's Digital Universe! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
@@ -30,10 +30,10 @@
 ### 💫 Developer Profile
 
 **const** rezaShakeri = {  
-&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Reza Shakeri",  
-&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Iran 🇮🇷",  
+&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
+&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
 &nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
-&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "10+ years",  
+&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "4+ years",  
 &nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
 &nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
 
