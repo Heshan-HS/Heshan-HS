@@ -343,32 +343,13 @@ graph TD
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-<br>
-<strong>⚡ Quick Facts</strong>
-<br><br>
-🐛 I debug with console.log() and proud of it!<br>
-☕ Coffee consumption: ~5 cups/day<br>
-🌙 Night owl developer (best code after 10 PM)<br>
-📚 Always have 3+ tech books on my reading list<br>
-🎵 Code with Lo-fi Hip Hop playlists<br>
-</td>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-<br>
-<strong>🎯 When I'm Not Coding</strong>
-<br><br>
-🎮 Gaming (strategy & puzzle games)<br>
-📖 Reading tech blogs & documentation<br>
-🌱 Learning new programming languages<br>
-🔧 Building side projects for fun<br>
-🏃‍♂️ Running & staying active<br>
-</td>
-</tr>
-</table>
+| ⚡ **Quick Facts** | 🎯 **When I'm Not Coding** |
+|:---:|:---:|
+| 🐛 I debug with console.log() and proud of it! | 🎮 Gaming (strategy & puzzle games) |
+| ☕ Coffee consumption: ~5 cups/day | 📖 Reading tech blogs & documentation |
+| 🌙 Night owl developer (best code after 10 PM) | 🌱 Learning new programming languages |
+| 📚 Always have 3+ tech books on my reading list | 🔧 Building side projects for fun |
+| 🎵 Code with Lo-fi Hip Hop playlists | 🏃‍♂️ Running & staying active |
 
 </div>
 
