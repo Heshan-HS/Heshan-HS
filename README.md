@@ -25,27 +25,31 @@
 
 <br>
 
-```typescript
-const rezaShakeri = {
-    name: "Reza Shakeri",
-    location: "Iran 🇮🇷",
-    role: "Software Engineer & Tech Enthusiast",
-    experience: "10+ years",
-    passion: ["Clean Code", "Innovation", "Knowledge Sharing"],
-    currentFocus: "Building scalable applications & mentoring developers",
-    
-    dailyRoutine: {
-        morning: "☕ Coffee + Code Review",
-        afternoon: "🚀 Feature Development", 
-        evening: "📚 Learning New Technologies",
-        night: "🌙 Open Source Contributions"
-    },
-    
-    lifePhilosophy: "Code with purpose, learn continuously, share knowledge! ✨"
+<div align="center">
+
+### 💫 Developer Profile
+
+**const** rezaShakeri = {  
+&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Reza Shakeri",  
+&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Iran 🇮🇷",  
+&nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
+&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "10+ years",  
+&nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
+&nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dailyRoutine**: {  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morning: "☕ Coffee + Code Review",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afternoon: "🚀 Feature Development",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evening: "📚 Learning New Technologies",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;night: "🌙 Open Source Contributions"  
+&nbsp;&nbsp;&nbsp;&nbsp;},  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**lifePhilosophy**: "Code with purpose, learn continuously, share knowledge! ✨"  
 };
 
 console.log("Welcome to my digital world! 🌟");
-```
+
+</div>
 
 ### 🎯 What Drives Me
 - **Clean Architecture**: Building maintainable and scalable solutions
