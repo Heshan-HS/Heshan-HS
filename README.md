@@ -1,203 +1,161 @@
-# 👋 Welcome to Heshan's Digital Universe! 
+# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
----
+## 🚀 About Me
 
-## 🌟 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="center">
-  
-### 👨‍💻 Quick Overview
-**Software Engineer** | **Full Stack Developer** | **Tech Enthusiast**  
-📍 Iran 🇮🇷 | 💼 10+ Years Experience | 🚀 Passionate about Innovation
+- 🔭 I'm currently working on **innovative web applications**
+- 🌱 I'm learning **Cloud Architecture & DevOps**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, Python, and System Design**
+- ⚡ Fun fact: **I debug with coffee and solve problems with code!**
 
-</div>
+<br clear="both">
 
-<details>
-<summary><b>🔍 More About Me (Click to expand)</b></summary>
-
-<br>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💫 Developer Profile
-
-**const** heshanSathyanga = {  
-&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
-&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
-&nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
-&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "4+ years",  
-&nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
-&nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
-
-&nbsp;&nbsp;&nbsp;&nbsp;**dailyRoutine**: {  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morning: "☕ Coffee + Code Review",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afternoon: "🚀 Feature Development",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evening: "📚 Learning New Technologies",  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;night: "🌙 Open Source Contributions"  
-&nbsp;&nbsp;&nbsp;&nbsp;},  
-
-&nbsp;&nbsp;&nbsp;&nbsp;**lifePhilosophy**: "Code with purpose, learn continuously, share knowledge! ✨"  
-};
-
-console.log("Welcome to my digital world! 🌟");
-
-</div>
-
-### 🎯 What Drives Me
-- **Clean Architecture**: Building maintainable and scalable solutions
-- **Continuous Learning**: Always exploring new technologies and methodologies  
-- **Community Impact**: Contributing to open source and mentoring developers
-- **Innovation**: Turning complex problems into elegant solutions
-
-</details>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend Technologies  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Testing & Quality
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### Monitoring & Analytics
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 </div>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rzashakeri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-### 🎯 Career Highlights
-- 🚀 **10+ Years** of software development experience
-- 🔧 **Multiple Technologies** mastered across full-stack development
-- 📦 **Open Source Contributor** with active community involvement
-- 🎓 **Knowledge Sharing** through social media and content creation
-- 💡 **Innovation Focus** on scalable and maintainable solutions
-
----
-
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rzashakeri)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rzashakeri)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rzashakeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezashakeri)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rezashakeri.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
----
-
-## 📈 Coding Journey
+## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rzashakeri&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
+  <a href="https://github.com/YourUsername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YourUsername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight" />
+  </a>
 </div>
 
----
+## 💼 Professional Experience
 
-## 💭 Random Dev Quote
+```javascript
+const developer = {
+    name: "Your Name",
+    title: "Software Engineer",
+    location: "Your City, Country",
+    experience: "3+ years",
+    specialties: ["Full Stack Development", "System Design", "Problem Solving"],
+    currentFocus: "Building scalable web applications",
+    lifePhilosophy: "Code with passion, debug with patience"
+};
+```
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
+## 📈 Coding Activity
 
----
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
+TypeScript   4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
+Python       2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
+CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+```
+<!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
 
-<div align="center">
+- 🚀 Launch 3 major open-source projects
+- 📚 Master cloud architecture patterns
+- 🤝 Contribute to 50+ open source repositories
+- 🎓 Mentor junior developers
+- 🌐 Build a SaaS product from scratch
 
-### 🚀 2024 Roadmap
-
-**const** currentGoals2024 = [  
-&nbsp;&nbsp;&nbsp;&nbsp;"🚀 Master advanced system architecture patterns",  
-&nbsp;&nbsp;&nbsp;&nbsp;"📱 Expand mobile development expertise",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🤖 Dive deeper into AI/ML integration",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🌍 Contribute to more open-source projects",  
-&nbsp;&nbsp;&nbsp;&nbsp;"📚 Share knowledge through technical blogging",  
-&nbsp;&nbsp;&nbsp;&nbsp;"🎯 Mentor junior developers in the community"  
-];
-
-console.log("Every commit is a step toward these goals! 💪");
-
-</div>
-
----
+## 🤝 Let's Connect!
 
 <div align="center">
   
-### ⚡ Fun Fact
-*I debug with `console.log()` and I'm not ashamed of it! 😄*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=heshansathyanga&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+## ☕ Support My Work
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourhandle">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  <br>
+  
+  **"Building the future, one commit at a time"** 💻✨
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
