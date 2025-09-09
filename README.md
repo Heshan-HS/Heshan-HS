@@ -1,299 +1,203 @@
+# 👋 Welcome to Heshan's Digital Universe! 
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;10%2B+Years+Experience+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
-# 🌟 Welcome to Heshan Sathyanga's Digital Universe 🌟
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Heshan%20Sathyanga&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Software+Engineer+🚀;💻+Problem+Solver+%26+Code+Architect+💻;🎯+Building+Tomorrow's+Technology+Today+🎯;⚡+Turning+Ideas+Into+Reality+⚡" alt="Typing SVG" />
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎭 About Me
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 Who Am I?
+## 🌟 About Me
 
 <div align="center">
-
-**🚀 Software Engineer** | **💻 Full Stack Developer** | **🌟 Problem Solver**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+  
+### 👨‍💻 Quick Overview
+**Software Engineer** | **Full Stack Developer** | **Tech Enthusiast**  
+📍 Iran 🇮🇷 | 💼 10+ Years Experience | 🚀 Passionate about Innovation
 
 </div>
 
-🎯 **Passionate about creating digital solutions that make a difference**  
-🌍 **Based in Sri Lanka** 🇱🇰  
-💡 **Always learning new technologies and exploring innovative ideas**  
-☕ **Powered by coffee and curiosity**  
-🎨 **Turning complex problems into elegant solutions**  
+<details>
+<summary><b>🔍 More About Me (Click to expand)</b></summary>
+
+<br>
 
 <div align="center">
 
-**💫 "Building the future, one commit at a time!" 🚀**
+### 💫 Developer Profile
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+**const** rezaShakeri = {  
+&nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
+&nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
+&nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
+&nbsp;&nbsp;&nbsp;&nbsp;**experience**: "4+ years",  
+&nbsp;&nbsp;&nbsp;&nbsp;**passion**: ["Clean Code", "Innovation", "Knowledge Sharing"],  
+&nbsp;&nbsp;&nbsp;&nbsp;**currentFocus**: "Building scalable applications & mentoring developers",  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**dailyRoutine**: {  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morning: "☕ Coffee + Code Review",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afternoon: "🚀 Feature Development",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evening: "📚 Learning New Technologies",  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;night: "🌙 Open Source Contributions"  
+&nbsp;&nbsp;&nbsp;&nbsp;},  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**lifePhilosophy**: "Code with purpose, learn continuously, share knowledge! ✨"  
+};
+
+console.log("Welcome to my digital world! 🌟");
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+### 🎯 What Drives Me
+- **Clean Architecture**: Building maintainable and scalable solutions
+- **Continuous Learning**: Always exploring new technologies and methodologies  
+- **Community Impact**: Contributing to open source and mentoring developers
+- **Innovation**: Turning complex problems into elegant solutions
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-
-### 🎯 Current Focus
-- 🔥 **Building scalable web applications**
-- 🌐 **Exploring cloud architecture**
-- 🤖 **AI/ML integration in web apps**
-- 🚀 **Contributing to open source**
-- 📱 **Mobile-first development**
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Arsenal
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<div align="center">
 
-### 🌐 Frontend Mastery
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,bootstrap,sass,figma&theme=dark" width="100%"/>
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### ⚙️ Backend Excellence  
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,express,django,spring,flask,graphql,prisma&theme=dark" width="100%"/>
+### Frontend Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🗄️ Database & Storage
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" width="100%"/>
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux,nginx,vercel,netlify&theme=dark" width="100%"/>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,xd,vscode,postman,notion&theme=dark" width="100%"/>
+### Testing & Quality
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Monitoring & Analytics
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanSathyanga&theme=react-dark&hide_border=true&area=true&custom_title=Heshan's%20Contribution%20Graph" />
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=HeshanSathyanga&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Heshan's%20GitHub%20Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanSathyanga&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanSathyanga&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" width="50%"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
+## 🏆 Achievements & Milestones
+
 <div align="center">
-
-## 🏆 Achievement Gallery
-
-<img src="https://github-profile-trophy.vercel.app/?username=HeshanSathyanga&theme=discord&no-frame=true&no-bg=true&column=4&row=2" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rzashakeri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
-
-## 🚀 Featured Projects Showcase
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>🌟 Project Alpha</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=project-alpha&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</td>
-<td width="50%" align="center">
-<h3>🔥 Project Beta</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=project-beta&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-</div>
+### 🎯 Career Highlights
+- 🚀 **10+ Years** of software development experience
+- 🔧 **Multiple Technologies** mastered across full-stack development
+- 📦 **Open Source Contributor** with active community involvement
+- 🎓 **Knowledge Sharing** through social media and content creation
+- 💡 **Innovation Focus** on scalable and maintainable solutions
 
 ---
-
-<div align="center">
-
-## 💡 Innovation Metrics
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="60"><br>
-<b>50+ Projects</b><br>
-<sub>Completed & Deployed</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
-<b>1000+ Commits</b><br>
-<sub>This Year</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
-<b>24/7 Learning</b><br>
-<sub>Never Stop Growing</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
-<b>∞ Passion</b><br>
-<sub>For Technology</sub>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 2024 Goals & Achievements
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-
-</div>
-
-```yaml
-Goals_2024:
-  Open_Source:
-    - "🎯 Contribute to 100+ repositories"
-    - "🚀 Launch 5 major projects"
-    - "⭐ Reach 1000 GitHub stars"
-  
-  Skills:
-    - "☁️ Master AWS Cloud Architecture"
-    - "🤖 Deep dive into AI/ML"
-    - "📱 Flutter mobile development"
-  
-  Community:
-    - "🎤 Speak at 3 tech conferences"
-    - "✍️ Write 50+ technical blogs"
-    - "🤝 Mentor 20+ junior developers"
-
-Current_Status: "Loading amazing things... 🚀"
-Progress: "▓▓▓▓▓▓▓▓░░ 80%"
-```
-
----
-
-<div align="center">
 
 ## 🌐 Connect With Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48789.gif" width="200">
+<div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/heshan-sathyanga">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-<br><b>LinkedIn</b>
-</a>
-</td>
-<td align="center">
-<a href="https://twitter.com/heshan_sathyanga">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-<br><b>Twitter</b>
-</a>
-</td>
-<td align="center">
-<a href="mailto:heshan.sathyanga@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
-<br><b>Email</b>
-</a>
-</td>
-<td align="center">
-<a href="https://heshan-portfolio.dev">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-<br><b>Portfolio</b>
-</a>
-</td>
-</tr>
-</table>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rzashakeri)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rzashakeri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rzashakeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezashakeri)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rezashakeri.com)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heshan_sathyanga)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@heshan_tech)
+</div>
+
+---
+
+## 📈 Coding Journey
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rzashakeri&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+### 🚀 2024 Roadmap
+
+**const** currentGoals2024 = [  
+&nbsp;&nbsp;&nbsp;&nbsp;"🚀 Master advanced system architecture patterns",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📱 Expand mobile development expertise",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🤖 Dive deeper into AI/ML integration",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🌍 Contribute to more open-source projects",  
+&nbsp;&nbsp;&nbsp;&nbsp;"📚 Share knowledge through technical blogging",  
+&nbsp;&nbsp;&nbsp;&nbsp;"🎯 Mentor junior developers in the community"  
+];
+
+console.log("Every commit is a step toward these goals! 💪");
 
 </div>
 
 ---
 
 <div align="center">
+  
+### ⚡ Fun Fact
+*I debug with `console.log()` and I'm not ashamed of it! 😄*
 
-## ☕ Fuel My Coding Journey
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-<a href="https://www.buymeacoffee.com/heshansathyanga">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b58a-563ea8fe2f0d.gif" width="150">
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Profile Analytics
-
-<img src="https://komarev.com/ghpvc/?username=HeshanSathyanga&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/HeshanSathyanga?color=blue&style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/HeshanSathyanga?color=yellow&style=for-the-badge&label=Total+Stars" />
+<img src="https://komarev.com/ghpvc/?username=rzashakeri&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**⭐ From [Heshan Sathyanga](https://github.com/HeshanSathyanga) with ❤️**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
