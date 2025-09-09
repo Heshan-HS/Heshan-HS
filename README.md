@@ -15,22 +15,17 @@
 
 </div>
 
-```javascript
-const heshan = {
-    name: "Heshan Sathyanga",
-    role: "Software Engineer",
-    location: "🌍 Sri Lanka",
-    passion: "Building innovative solutions with clean code",
-    currentFocus: "Full Stack Development & Modern Technologies",
-    
-    dailyRoutine: {
-        code: "☕ Coffee first, then code",
-        learn: "📚 Always exploring new technologies",
-        build: "🔨 Creating something awesome",
-        repeat: "🔄 Continuous improvement"
-    }
-};
-```
+🚀 **Name:** Heshan Sathyanga  
+💼 **Role:** Software Engineer  
+🌍 **Location:** Sri Lanka  
+💡 **Passion:** Building innovative solutions with clean code  
+🎯 **Current Focus:** Full Stack Development & Modern Technologies  
+
+**Daily Routine:**
+- ☕ **Code:** Coffee first, then code
+- 📚 **Learn:** Always exploring new technologies  
+- 🔨 **Build:** Creating something awesome
+- 🔄 **Repeat:** Continuous improvement
 
 ---
 
