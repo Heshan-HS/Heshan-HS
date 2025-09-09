@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HeshanSathyanga&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/HeshanSathyanga?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Followers-1.2K-blue?style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
 
@@ -131,30 +131,30 @@
 <tr>
 <td align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=HeshanSathyanga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" />
 
 </td>
 <td align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanSathyanga&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanSathyanga&theme=tokyonight&background=0D1117&border=30363D&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=tokyonight&background=0D1117&border=30363D&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanSathyanga&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false&border_color=30363d&radius=8" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false&border_color=30363d&radius=8" alt="Contribution Graph" />
 </div>
 
 <div align="center">
 
 ### 🔥 Contribution Heatmap
 
-<img src="https://ghchart.rshah.org/409ba5/HeshanSathyanga" alt="GitHub Contribution Chart" width="100%" />
+<img src="https://ghchart.rshah.org/409ba5/anuraghazra" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
@@ -168,11 +168,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HeshanSathyanga&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=1&column=4&row=2" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=1&column=4&row=2" alt="GitHub Trophies" />
 
 ### 🎖️ Achievement Badges
 
-<img src="https://holopin.me/heshansathyanga" alt="Holopin Badges" />
+<img src="https://holopin.me/anuraghazra" alt="Holopin Badges" />
 
 </div>
 
@@ -186,8 +186,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=awesome-project-1&theme=tokyonight)](https://github.com/HeshanSathyanga/awesome-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=innovative-app&theme=tokyonight)](https://github.com/HeshanSathyanga/innovative-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=tokyonight)](https://github.com/anuraghazra/convoychat)
 
 </div>
 
@@ -356,7 +356,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![Snake animation](https://github.com/HeshanSathyanga/HeshanSathyanga/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -371,7 +371,7 @@ CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 <img src="https://komarev.com/ghpvc/?username=HeshanSathyanga&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/stars/HeshanSathyanga?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/Stars-500+-yellow?style=for-the-badge" alt="GitHub Stars" />
 
 **⭐ Star my repositories if you find them interesting!**
 
