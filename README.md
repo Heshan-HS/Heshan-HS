@@ -29,7 +29,7 @@
 
 ### 💫 Developer Profile
 
-**const** rezaShakeri = {  
+**const** heshanSathyanga = {  
 &nbsp;&nbsp;&nbsp;&nbsp;**name**: "Heshan Sathyanga",  
 &nbsp;&nbsp;&nbsp;&nbsp;**location**: "Sri Lanka",  
 &nbsp;&nbsp;&nbsp;&nbsp;**role**: "Software Engineer & Tech Enthusiast",  
