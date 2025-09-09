@@ -192,7 +192,7 @@ console.log("Every commit is a step toward these goals! 💪");
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=rzashakeri&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=heshansathyanga&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
