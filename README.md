@@ -377,4 +377,266 @@ console.log(heshan.getCurrentActivity());
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourprofile&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="200" alt="Buy Me A Coffee"/>
   </a>
   <a href="https://ko-fi.com/yourprofile">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" alt="Ko-fi"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.patreon.com/yourprofile">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+  <a href="https://github.com/sponsors/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+</p>
+
+---
+
+<!-- Fun Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎮 When I'm Not Coding
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216655834-dfa9d245-018c-4ce2-b7c0-55e5f0622a50.gif" width="100" alt="Learning"/>
+      <br>
+      <strong>Learning New Tech</strong>
+      <br>
+      <sub>Always curious about the latest frameworks and tools</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" alt="Open Source"/>
+      <br>
+      <strong>Contributing to Open Source</strong>
+      <br>
+      <sub>Giving back to the community that taught me</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100" alt="Writing"/>
+      <br>
+      <strong>Technical Writing</strong>
+      <br>
+      <sub>Sharing knowledge through blogs and tutorials</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Visitors Counter -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@YourGitHubUsername?theme=rule34" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Final Quote Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">💡 Philosophy</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22" alt="Philosophy"/>
+</p>
+
+---
+
+<!-- Skill Progress Bars -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 Skill Levels
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,go,rust,docker,kubernetes,aws,gcp,azure,mongodb,postgres,redis,git,linux,vscode&perline=10" />
+</p>
+
+<details>
+<summary><b>📈 Detailed Skill Breakdown</b></summary>
+<br>
+
+**Frontend Development**
+- React/Next.js ████████████████████ 95%
+- Vue.js/Nuxt.js ███████████████████░ 90%
+- TypeScript ████████████████████ 95%
+- UI/UX Design ██████████████████░░ 85%
+
+**Backend Development**
+- Node.js/Express ████████████████████ 95%
+- Python/Django ███████████████████░ 90%
+- Java/Spring Boot ██████████████████░░ 85%
+- API Design ████████████████████ 95%
+
+**Database Management**
+- MongoDB ████████████████████ 95%
+- PostgreSQL ███████████████████░ 90%
+- Redis ██████████████████░░ 85%
+- Database Design ████████████████████ 95%
+
+**DevOps & Cloud**
+- Docker/Kubernetes ███████████████████░ 90%
+- AWS ██████████████████░░ 85%
+- CI/CD ███████████████████░ 90%
+- Infrastructure as Code ██████████████████░░ 85%
+
+**Other Skills**
+- System Design ████████████████████ 95%
+- Problem Solving ████████████████████ 100%
+- Team Collaboration ████████████████████ 95%
+- Code Review ███████████████████░ 90%
+
+</details>
+
+---
+
+<!-- GitHub Wrapped Style Stats -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎊 GitHub Wrapped 2025
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=📊%20My%20GitHub%20Journey" width="100%"/>
+</p>
+
+---
+
+<!-- Random Jokes -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 😄 Random Dev Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="100%" />
+</p>
+
+---
+
+<!-- GitHub Skyline -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏙️ My GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline.github.com/YourGitHubUsername/2025">
+    <img src="https://img.shields.io/badge/View%20My%202025%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+</p>
+
+---
+
+<!-- Badges Collection -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏅 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+---
+
+<!-- Code Time Tracker -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⏰ Coding Activity
+
+```text
+🌞 Morning    ████████░░░░░░░░  35%
+🌆 Daytime    █████████████░░░  65%
+🌃 Evening    ████████████████  80%
+🌙 Night      ███████████████░  75%
+```
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Total time coded since Dec 31 2020" />
+</p>
+
+---
+
+<!-- Repo Analytics -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📦 Repository Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=radical" width="100%" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourGitHubUsername&theme=radical" width="49%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourGitHubUsername&theme=radical" width="49%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourGitHubUsername&theme=radical" width="49%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YourGitHubUsername&theme=radical" width="49%" alt="Productive Time"/>
+</p>
+
+---
+
+<!-- Footer with Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">🚀 Let's Build Something Amazing Together!</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A177F7&center=true&vCenter=true&width=600&lines=%F0%9F%93%A7+Open+for+Collaborations;%F0%9F%92%BC+Available+for+Freelance+Work;%F0%9F%A4+Always+Happy+to+Help;%E2%AD%90+Don't+Forget+to+Star+My+Repos!" alt="Footer Typing"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge" alt="Powered by Coffee"/>
+  <img src="https://img.shields.io/badge/Built%20with-💻-blue?style=for-the-badge" alt="Built with Code"/>
+</p>
+
+<p align="center">
+  <sub>✨ <strong>Created with passion by Heshan Sathyanga</strong> ✨</sub>
+  <br>
+  <sub>⭐ Star my repositories if you find them useful! ⭐</sub>
+</p>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+<!-- Final Stats Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blueviolet&label=TOTAL+PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+---
+
+<div align="center">
+
+### 📝 License
+
+This profile README is inspired by the amazing GitHub community.
+
+**Copyright © 2025 Heshan Sathyanga. All rights reserved.**
+
+</div>
+
+<!-- Secret Message -->
+<!--
+████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
+   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+   
+Thanks for visiting my profile! Have a great day! 🎉
+If you're reading this, you're awesome! 😎
+-->
