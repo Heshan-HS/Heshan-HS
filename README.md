@@ -1,203 +1,210 @@
-<h1 align="center">⚡ Heshan Sathyanga</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/gradient-wave.gif" width="100%"/>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Heshan%20Sathyanga&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Next.js+%7C+Node.js+%7C+DevOps;Crafting+Modern+%26+Animated+Apps;2025+Premium+Developer+Profile" />
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Crafting+Digital+Experiences+%F0%9F%8E%A8;Building+Scalable+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="#about"><img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/hero-animated.gif" alt="animated-hero" width="800"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/HeshanSathyanga"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HeshanSathyanga?label=Follow&style=for-the-badge"/></a>
-  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/HeshanSathyanga/REPO?style=for-the-badge"/>
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/HeshanSathyanga/REPO?style=for-the-badge"/>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=HeshanSathyanga.HeshanSathyanga&style=for-the-badge"/>
-</p>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+<br/>
 
-## 👋 Hi — I'm Heshan
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/fire-gradient.gif" width="40"/>
-</p>
-Full‑stack Software Engineer | Building scalable web apps, delightful UIs, and resilient backend systems. I craft production-ready products with a focus on performance, developer experience, and clean architecture.
-
-> ✨ This README is styled for **2025** — modern, animated, and resume-ready. Replace the placeholder images/GIFs with your own assets (profile GIF, demo GIFs).
+</div>
 
 ---
 
-## 🚀 What I do
+## 🎯 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/rocket-launch.gif" width="60"/>
-</p>
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite — design-first, accessibility-minded interfaces.
-- **Backend:** Node.js, Express, Fastify, Go, Python (FastAPI), Serverless (AWS Lambda / Cloud Run).
-- **Data & Infra:** PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Terraform, CI/CD pipelines.
-- **AI & Tools:** Prompt engineering, model integrations, LangChain-style pipelines, Vector DB basics.
-- **Other:** Web3 primitives, realtime apps (WebSockets), GraphQL, testing & observability.
-
----
-
-## ⭐ Featured Projects
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/project-glow.gif" width="60"/>
-</p>
-> Replace the links with your real repos. Add GIFs/snippets to show the animated demo.
-
-### 1) **NovaPortal** — Enterprise dashboard (Next.js, Tailwind, PostgreSQL)
-
-* Live demo: `https://nova.example.com` (replace)
-* Highlights: role-based access, realtime updates, modular component library.
-* Repo: `github.com/HeshanSathyanga/novaportal`
-
-### 2) **EdgeNotes** — Collaborative note app (React, Go, WebSockets)
-
-* Highlights: conflict-free editing, offline-first, optimistic UI.
-* Repo: `github.com/HeshanSathyanga/edgenotes`
-
-### 3) **AI Assistant Toolkit** — Prompt pipelines, integrations with LLMs
-
-* Highlights: secure connectors, batching, streaming output.
-* Repo: `github.com/HeshanSathyanga/ai-toolkit`
-
----
-
-## 🧩 Quick Setup
-
-```bash
-# Clone my portfolio repo
-git clone https://github.com/HeshanSathyanga/portfolio.git
-cd portfolio
-pnpm install  # or npm install
-pnpm dev
+```typescript
+const heshan: Developer = {
+    name: "Heshan Sathyanga",
+    role: "Full-Stack Software Engineer",
+    location: "🌍 Sri Lanka",
+    workingOn: "Building next-generation web applications",
+    learning: ["AI/ML", "Cloud Architecture", "DevOps"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 ```
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🎨 Visual & Animated Enhancements (How to make this README "move")
+### 🚀 Quick Facts
 
-* **Animated hero GIF** — replace `assets/hero-animated.gif` with a 2–6s looping GIF showing your product or code demo.
-* **Lottie animations** — host a .json on a CDN and embed via `<img src="https://lottie.host/ID/preview.gif"/>` or convert to GIF for README.
-* **Dynamic cards** — use `github-readme-stats` (example below) to show live contribution stats.
+- 🔭 Currently working on **innovative full-stack projects**
+- 🌱 Constantly learning and evolving with technology
+- 💡 Passionate about clean code and scalable architecture
+- 🎨 Love creating beautiful, functional user interfaces
+- ⚡ Coffee enthusiast ☕ | Code lover 💻 | Problem solver 🧩
 
-```md
-<!-- GitHub Readme Stats -->
-![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeshanSathyanga&show_icons=true&theme=radical)
-```
-
-* **GIF thumbnails for projects** — include 300–500px GIFs under each project title to show motion on the repo landing.
-* **Animated SVGs** — host SVGs (with `<animate>` tags) in your repo and embed them with raw.githubusercontent links.
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=nextdotjs"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=nodedotjs"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-333333?style=flat-square&logo=kubernetes"/>
-</p>
+<div align="center">
 
----
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 GitHub Activity
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/activity-bars.gif" width="400"/>
-</p>
-```md
-<!-- Contribution Graph (animated GIF placeholder) -->
-![contribution-graph](https://ghchart.rshah.org/HeshanSathyanga)
-```
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-> Tip: use `https://ghchart.rshah.org/<username>` for a simple contribution heatmap; some services provide animated variants.
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 💼 Experience & Education
+### 🧰 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-* **Full‑Stack Engineer** — `Company/Contract` — 2022–Present
-
-  * Led frontend rewrite to Next.js; improved lighthouse perf by 52%.
-  * Built event-driven microservices with Go and Redis.
-* **B.S. in Computer Science** — University (Year)
-
----
-
-## 🧭 How I Work
-
-* Clean code, test-first mindset, and CI pipelines that actually ship.
-* Prefer small, incremental PRs and feature flags for safe rollouts.
-* Mentoring junior devs & improving DX across teams.
-
----
-
-## 📬 Contact & Links
-
-* Email: `heshan@example.com` (replace)
-* LinkedIn: `https://linkedin.com/in/heshansathyanga`
-* Portfolio: `https://heshansathyanga.dev`
-* Twitter/X: `@HeshanSathyanga`
-
----
-
-## 🧾 Resume
-
-Download: `[Resume - PDF](https://example.com/heshan_resume.pdf)` (replace with your link)
+</div>
 
 ---
 
-## ⚙️ Automation Suggestions (optional)
+## 📊 GitHub Analytics
 
-* **Auto-update README daily/weekly:** Use GitHub Actions to update a daily status, quote, or animated GIF.
-* **Show latest blog post:** Use an RSS-to-JSON GitHub Action to surface your latest post.
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7"/>
 
-*GitHub Action snippet to update README (runs daily):*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=FF6B6B&currStreakLabel=A177F7" alt="GitHub Streak" />
 
-```yaml
-name: Update README
-on:
-  schedule:
-    - cron: '0 0 * * *' # daily
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Update README
-        run: |
-          python scripts/update_readme.py
-      - name: Commit and push
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "github-actions"
-          git add README.md
-          git commit -m "chore: update readme"
-          git push
-```
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&custom_title=Heshan's%20Contribution%20Graph&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 📝 License
+## 🏆 GitHub Trophies
 
-This README is MIT licensed — adapt & reuse. Give a ⭐ if you find it useful.
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<p align="center">
-  Crafted with ❤️ by **Heshan Sathyanga** • Full‑Stack Engineer
-</p>
+## 💼 Featured Projects
 
-<!-- Replace all placeholder links and images with real URLs before publishing -->
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YourGitHubUsername/your-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YourGitHubUsername/your-repo-2)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎵 Coding Vibes
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Thought of the Day
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+### ☕ Support My Work
+
+If you like what I do, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+
+<br/>
+
+**✨ Made with 💜 by Heshan Sathyanga**
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
