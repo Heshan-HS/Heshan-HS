@@ -59,10 +59,6 @@ class HeshanSathyanga extends Developer {
 
 const heshan = new HeshanSathyanga();
 console.log(heshan.getCurrentActivity());
-```
-
-
-
 <details> <summary><b>🌟 More About My Journey</b></summary>
 
 
@@ -345,82 +341,3 @@ This profile README is inspired by the amazing GitHub community.
 Copyright © 2025 Heshan Sathyanga. All rights reserved.
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourGitHubUsername&theme=radical" width="49%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourGitHubUsername&theme=radical" width="49%" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourGitHubUsername&theme=radical" width="49%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YourGitHubUsername&theme=radical" width="49%" alt="Productive Time"/>
-</p>
-
----
-
-<!-- Footer with Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 align="center">🚀 Let's Build Something Amazing Together!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A177F7&center=true&vCenter=true&width=600&lines=%F0%9F%93%A7+Open+for+Collaborations;%F0%9F%92%BC+Available+for+Freelance+Work;%F0%9F%A4+Always+Happy+to+Help;%E2%AD%90+Don't+Forget+to+Star+My+Repos!" alt="Footer Typing"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge" alt="Powered by Coffee"/>
-  <img src="https://img.shields.io/badge/Built%20with-💻-blue?style=for-the-badge" alt="Built with Code"/>
-</p>
-
-<p align="center">
-  <sub>✨ <strong>Created with passion by Heshan Sathyanga</strong> ✨</sub>
-  <br>
-  <sub>⭐ Star my repositories if you find them useful! ⭐</sub>
-</p>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
-
-<!-- Final Stats Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blueviolet&label=TOTAL+PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
----
-
-<div align="center">
-
-### 📝 License
-
-This profile README is inspired by the amazing GitHub community.
-
-**Copyright © 2025 Heshan Sathyanga. All rights reserved.**
-
-</div>
-
-<!-- Secret Message -->
-<!--
-████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
-   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-   
-Thanks for visiting my profile! Have a great day! 🎉
-If you're reading this, you're awesome! 😎
--->
