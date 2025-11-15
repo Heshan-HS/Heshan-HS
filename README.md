@@ -1,187 +1,183 @@
-<!-- ===================================================== -->
-<!--           HESHAN SATHYANGA — PREMIUM README           -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img width="100%" height="340"
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=340&section=header&text=Heshan%20Sathyanga&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=27&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Tech%20Creator&descSize=20&descAlignY=58" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;🎯+Problem+Solver;⚡+Tech+Enthusiast;🔥+Building+Modern+Digital+Experiences!" />
+# Heshan Sathyanga
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeshanSathyanga&label=Profile%20Views&color=0abde3&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-1.2K-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
+  <a href="#about"><img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/hero-animated.gif" alt="animated-hero" width="800"/></a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/HeshanSathyanga"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HeshanSathyanga?label=Follow&style=for-the-badge"/></a>
+  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/HeshanSathyanga/REPO?style=for-the-badge"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/HeshanSathyanga/REPO?style=for-the-badge"/>
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=HeshanSathyanga.HeshanSathyanga&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌟 About Me  
+## 👋 Hi — I'm Heshan
 
-<div align="center">
+Full‑stack Software Engineer | Building scalable web apps, delightful UIs, and resilient backend systems. I craft production-ready products with a focus on performance, developer experience, and clean architecture.
 
-<table width="100%" style="border:none;">
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Who Am I?
-
-🚀 Passionate **Software Engineer** building performant, scalable and smart solutions.  
-💡 Love creating clean UI, optimized backend, AI integrations & cloud-native apps.  
-🔥 Constantly learning & improving every single day.
-
-### 📌 Highlights  
-- ✨ 3+ years of professional development  
-- ⚙️ Full Stack Expertise (React + Node + Python + DevOps)  
-- ⚡ Scalable apps using modern architectures  
-- 🧠 Strong problem-solving and system design  
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ My Daily Routine  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220">
-
-</td>
-</tr>
-</table>
-
-</div>
+> ✨ This README is styled for **2025** — modern, animated, and resume-ready. Replace the placeholder images/GIFs with your own assets (profile GIF, demo GIFs).
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 What I do
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,java,python,cpp,html,css,tailwind,nodejs,express,django,fastapi,mongodb,mysql,postgres,redis,aws,docker,kubernetes,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-<table width="95%">
-<tr>
-
-<!-- Card 1 -->
-<td width="48%" valign="top" style="background:#0d1117;border-radius:15px;padding:20px;box-shadow:0 0 15px rgba(0,0,0,0.4);">
-
-<img src="https://img.shields.io/badge/Software%20Engineer-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech%20Innovation%20Hub-7c3aed?style=for-the-badge" />
-
-### 🕒 2023 – Present  
-### ✨ Key Contributions:
-- Built scalable apps serving **10K+ active users**  
-- Developed CI/CD pipelines → **60% faster deployments**  
-- Led a small dev-team on core systems  
-
-</td>
-
-<td width="4%"></td>
-
-<!-- Card 2 -->
-<td width="48%" valign="top" style="background:#0d1117;border-radius:15px;padding:20px;box-shadow:0 0 15px rgba(0,0,0,0.4);">
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-f97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Solutions%20Inc-10b981?style=for-the-badge" />
-
-### 🕒 2022 – 2023  
-### ✨ Key Contributions:
-- Created responsive UI with React + Tailwind  
-- Improved DB performance by **40%**  
-- Delivered full-stack features with fast iteration  
-
-</td>
-
-</tr>
-</table>
-</div>
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite — design-first, accessibility-minded interfaces.
+* **Backend:** Node.js, Express, Fastify, Go, Python (FastAPI), Serverless (AWS Lambda / Cloud Run).
+* **Data & Infra:** PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Terraform, CI/CD pipelines.
+* **AI & Tools:** Prompt engineering, model integrations, LangChain-style pipelines, Vector DB basics.
+* **Other:** Web3 primitives, realtime apps (WebSockets), GraphQL, testing & observability.
 
 ---
 
-## 📊 GitHub Analytics
+## ⭐ Featured Projects
 
-<div align="center">
+> Replace the links with your real repos. Add GIFs/snippets to show the animated demo.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HeshanSathyanga&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanSathyanga&layout=compact&theme=tokyonight&border_radius=10" />
+### 1) **NovaPortal** — Enterprise dashboard (Next.js, Tailwind, PostgreSQL)
 
-<br/>
+* Live demo: `https://nova.example.com` (replace)
+* Highlights: role-based access, realtime updates, modular component library.
+* Repo: `github.com/HeshanSathyanga/novaportal`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanSathyanga&theme=tokyonight&hide_border=false" />
+### 2) **EdgeNotes** — Collaborative note app (React, Go, WebSockets)
 
-</div>
+* Highlights: conflict-free editing, offline-first, optimistic UI.
+* Repo: `github.com/HeshanSathyanga/edgenotes`
 
----
+### 3) **AI Assistant Toolkit** — Prompt pipelines, integrations with LLMs
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=your-project-1&theme=tokyonight)]()
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HeshanSathyanga&repo=your-project-2&theme=tokyonight)]()
-
-</div>
+* Highlights: secure connectors, batching, streaming output.
+* Repo: `github.com/HeshanSathyanga/ai-toolkit`
 
 ---
 
-## 🎯 Current Goals (2025)
+## 🧩 Quick Setup
 
-- 🚀 Master System Architecture  
-- 🤖 Build advanced AI/ML apps  
-- 📱 Release a mobile product  
-- 🌍 Grow open-source contributions  
-- 📝 Write technical articles  
-
----
-
-## 🌐 Connect With Me  
-
-<div align="center">
-
-<a href="https://linkedin.com/in/heshan-sathyanga">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:heshan.sathyanga@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HeshanSathyanga">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/heshan_sathyanga">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+```bash
+# Clone my portfolio repo
+git clone https://github.com/HeshanSathyanga/portfolio.git
+cd portfolio
+pnpm install  # or npm install
+pnpm dev
+```
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
+## 🎨 Visual & Animated Enhancements (How to make this README "move")
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+* **Animated hero GIF** — replace `assets/hero-animated.gif` with a 2–6s looping GIF showing your product or code demo.
+* **Lottie animations** — host a .json on a CDN and embed via `<img src="https://lottie.host/ID/preview.gif"/>` or convert to GIF for README.
+* **Dynamic cards** — use `github-readme-stats` (example below) to show live contribution stats.
 
-</div>
+```md
+<!-- GitHub Readme Stats -->
+![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeshanSathyanga&show_icons=true&theme=radical)
+```
+
+* **GIF thumbnails for projects** — include 300–500px GIFs under each project title to show motion on the repo landing.
+* **Animated SVGs** — host SVGs (with `<animate>` tags) in your repo and embed them with raw.githubusercontent links.
 
 ---
 
-<div align="center">
+## 🛠 Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=nextdotjs"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=nodedotjs"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-333333?style=flat-square&logo=kubernetes"/>
+</p>
 
-### ⭐ *Thanks for visiting my profile!*  
-### 👉 *Let’s build something amazing together!*
+---
 
-</div>
+## 📈 GitHub Activity
+
+```md
+<!-- Contribution Graph (animated GIF placeholder) -->
+![contribution-graph](https://ghchart.rshah.org/HeshanSathyanga)
+```
+
+> Tip: use `https://ghchart.rshah.org/<username>` for a simple contribution heatmap; some services provide animated variants.
+
+---
+
+## 💼 Experience & Education
+
+* **Full‑Stack Engineer** — `Company/Contract` — 2022–Present
+
+  * Led frontend rewrite to Next.js; improved lighthouse perf by 52%.
+  * Built event-driven microservices with Go and Redis.
+* **B.S. in Computer Science** — University (Year)
+
+---
+
+## 🧭 How I Work
+
+* Clean code, test-first mindset, and CI pipelines that actually ship.
+* Prefer small, incremental PRs and feature flags for safe rollouts.
+* Mentoring junior devs & improving DX across teams.
+
+---
+
+## 📬 Contact & Links
+
+* Email: `heshan@example.com` (replace)
+* LinkedIn: `https://linkedin.com/in/heshansathyanga`
+* Portfolio: `https://heshansathyanga.dev`
+* Twitter/X: `@HeshanSathyanga`
+
+---
+
+## 🧾 Resume
+
+Download: `[Resume - PDF](https://example.com/heshan_resume.pdf)` (replace with your link)
+
+---
+
+## ⚙️ Automation Suggestions (optional)
+
+* **Auto-update README daily/weekly:** Use GitHub Actions to update a daily status, quote, or animated GIF.
+* **Show latest blog post:** Use an RSS-to-JSON GitHub Action to surface your latest post.
+
+*GitHub Action snippet to update README (runs daily):*
+
+```yaml
+name: Update README
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README
+        run: |
+          python scripts/update_readme.py
+      - name: Commit and push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git add README.md
+          git commit -m "chore: update readme"
+          git push
+```
+
+---
+
+## 📝 License
+
+This README is MIT licensed — adapt & reuse. Give a ⭐ if you find it useful.
+
+---
+
+<p align="center">
+  Crafted with ❤️ by **Heshan Sathyanga** • Full‑Stack Engineer
+</p>
+
+<!-- Replace all placeholder links and images with real URLs before publishing -->
