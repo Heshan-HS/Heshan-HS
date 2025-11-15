@@ -28,35 +28,5 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-```typescript
-class HeshanSathyanga extends Developer {
-    name: string = "Heshan Sathyanga";
-    title: string = "Full-Stack Software Engineer";
-    location: string = "🇱🇰 Sri Lanka";
-    
-    currentFocus: string[] = [
-        "Building scalable microservices",
-        "Cloud-native architectures",
-        "AI/ML integration",
-        "Performance optimization"
-    ];
-    
-    codeStyle: string = "Clean, Maintainable, Scalable";
-    
-    languages: string[] = [
-        "JavaScript", "TypeScript", "Python", 
-        "Java", "C++", "Go", "Rust"
-    ];
-    
-    lifePhilosophy(): string {
-        return "Code is poetry written in logic 🎨";
-    }
-    
-    getCurrentActivity(): string {
-        return "Building the future, one commit at a time 🚀";
-    }
-}
 
-const heshan = new HeshanSathyanga();
-console.log(heshan.getCurrentActivity());
-<details> <summary><b>🌟 More About My Journey</b></summary>
+
