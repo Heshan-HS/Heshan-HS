@@ -61,505 +61,303 @@ const heshan = new HeshanSathyanga();
 console.log(heshan.getCurrentActivity());
 ```
 
-<details>
-<summary><b>🌟 More About My Journey</b></summary>
-<br>
 
-- 🔭 **Current Projects:** Working on enterprise-level full-stack applications with microservices architecture
-- 🌱 **Learning:** Advanced Kubernetes, AI/ML deployment, Blockchain development
-- 💡 **Interests:** Cloud Computing, DevOps, System Design, Open Source
-- 🎯 **2025 Goals:** Contribute to major open source projects, Master cloud-native development
-- ⚡ **Fun Fact:** I can debug production issues faster than I can find my keys in the morning! 😄
-- 💬 **Ask Me About:** Web Development, API Design, Database Optimization, System Architecture
-- 🎮 **Hobbies:** Coding (obviously!), Tech Blogging, Photography, Chess
+
+<details> <summary><b>🌟 More About My Journey</b></summary>
+
+
+🔭 Current Projects: Working on enterprise-level full-stack applications with microservices architecture
+
+🌱 Learning: Advanced Kubernetes, AI/ML deployment, Blockchain development
+
+💡 Interests: Cloud Computing, DevOps, System Design, Open Source
+
+🎯 2025 Goals: Contribute to major open source projects, Master cloud-native development
+
+⚡ Fun Fact: I can debug production issues faster than I can find my keys in the morning! 😄
+
+💬 Ask Me About: Web Development, API Design, Database Optimization, System Architecture
+
+🎮 Hobbies: Coding (obviously!), Tech Blogging, Photography, Chess
 
 </details>
 
----
-
-<!-- Tech Stack Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Technology Stack
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Technology Stack
+<details open> <summary><b>💻 Programming Languages</b></summary>
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+<details open> <summary><b>🎨 Frontend Development</b></summary>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
+<details open> <summary><b>⚙️ Backend Development</b></summary>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
-<br>
+<details open> <summary><b>🗄️ Databases & Caching</b></summary>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
+<details open> <summary><b>☁️ Cloud & DevOps</b></summary>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br>
+<details open> <summary><b>🧰 Tools & Platforms</b></summary>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </details>
 
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
+<details open> <summary><b>🤖 AI/ML & Data Science</b></summary>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
----
-
-<!-- GitHub Stats Full Width -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Statistics
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Statistics
+<p align="center">   <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DA177F7%26text_color%3DFFFFFF" alt="GitHub Stats" />
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A177F7&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=A177F7&fire=FF6B6B&currStreakLabel=A177F7&sideLabels=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.vercel.app/%3Fuser%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3DFF6B6B%26ring%3DA177F7%26fire%3DFF6B6B%26currStreakLabel%3DA177F7%26sideLabels%3DFFFFFF%26sideNums%3DFFFFFF" alt="GitHub Streak" />
+
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeUsername&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+<p align="center">   <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26layout%3Dcompact%26langs_count%3D10%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26text_color%3DFFFFFF" alt="Top Languages" />
+
+  <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3DYOUR_WAKATIME_USERNAME_HERE%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26text_color%3DFFFFFF%26layout%3Dcompact" alt="Wakatime Stats" />
+
 </p>
 
-<!-- Contribution Graph Full Width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&custom_title=Heshan%20Sathyanga's%20Contribution%20Graph&bg_color=0D1117&color=A177F7&line=FF6B6B&point=FFFFFF&area_color=0D1117&title_color=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26custom_title%3DHeshan%2520Sathyanga%27s%2520Contribution%2520Graph%26bg_color%3D0D1117%26color%3DA177F7%26line%3DFF6B6B%26point%3DFFFFFF%26area_color%3D0D1117%26title_color%3DFF6B6B%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Graph" width="100%"/>
 
----
-
-<!-- Trophies Full Width -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px"> GitHub Achievements
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px"> GitHub Achievements
+<p align="center">   <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4%26column%3D8%26row%3D1" width="100%" alt="GitHub Trophies"/> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- Featured Projects -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Featured Projects
+<p align="center">   <a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_1">     <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26repo%3DYOUR_REPO_NAME_1%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DA177F7%26text_color%3DFFFFFF" />   </a>   <a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_2">     <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26repo%3DYOUR_REPO_NAME_2%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DA177F7%26text_color%3DFFFFFF" />   </a> </p>
 
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A177F7&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/YourGitHubUsername/project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A177F7&text_color=FFFFFF" />
-  </a>
-</p>
+<p align="center">   <a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_3">     <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26repo%3DYOUR_REPO_NAME_3%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DA177F7%26text_color%3DFFFFFF" />   </a>   <a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_4">     <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26repo%3DYOUR_REPO_NAME_4%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DA177F7%26text_color%3DFFFFFF" />   </a> </p>
 
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername/project-3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A177F7&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/YourGitHubUsername/project-4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A177F7&text_color=FFFFFF" />
-  </a>
-</p>
-
----
-
-<!-- Recent Activity -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<!-- Coding Stats -->
+📊 Recent GitHub Activity
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ⏱️ Coding Stats
+⏱️ Coding Stats
+<p align="center">   <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3DYOUR_WAKATIME_USERNAME_HERE%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26layout%3Dcompact%26custom_title%3DWeekly%2520Development%2520Breakdown" width="100%" alt="Wakatime Stats"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeUsername&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&layout=compact&custom_title=Weekly%20Development%20Breakdown" width="100%" alt="Wakatime Stats"/>
-</p>
-
----
-
-<!-- Music -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎵 Currently Vibing To
+🎵 Currently Vibing To
+<p align="center">   <img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3DYOUR_SPOTIFY_USER_ID_HERE%26cover_image%3Dtrue%26theme%3Dnovatorem%26show_offline%3Dfalse%26background_color%3D0d1117%26interchange%3Dtrue%26bar_color%3Dff6b6b%26bar_color_cover%3Dtrue" width="100%" alt="Spotify Now Playing"/> </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff6b6b&bar_color_cover=true" width="100%" alt="Spotify Now Playing"/>
-</p>
-
----
-
-<!-- Quote -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💭 Dev Quote of the Day
+💭 Dev Quote of the Day
+<p align="center">   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" width="100%" alt="Dev Quote"/> </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" width="100%" alt="Dev Quote"/>
-</p>
-
----
-
-<!-- Metrics -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Detailed Metrics
+📈 Detailed Metrics
+<p align="center">   <img src="https://www.google.com/search?q=https://metrics.lecoq.io/YOUR_GITHUB_USERNAME_HERE%3Ftemplate%3Dclassic%26base.header%3D0%26base.activity%3D0%26base.community%3D0%26base.repositories%3D0%26base.metadata%3D0%26isocalendar%3D1%26languages%3D1%26lines%3D1%26people%3D1%26activity%3D1%26followup%3D1%26repositories%3D1%26isocalendar.duration%3Dhalf-year%26languages.limit%3D8%26languages.sections%3Dmost-used%26languages.colors%3Dgithub%26languages.threshold%3D0%2525%26languages.indepth%3Dfalse%26languages.analysis.timeout%3D15%26languages.categories%3Dmarkup%252C%2520programming%26languages.recent.categories%3Dmarkup%252C%2520programming%26languages.recent.load%3D300%26languages.recent.days%3D14%26repositories.batch%3D100%26repositories.forks%3Dfalse%26repositories.affiliations%3Downer%26activity.limit%3D5%26activity.load%3D300%26activity.days%3D14%26activity.filter%3Dall%26activity.visibility%3Dall%26activity.timestamps%3Dfalse%26followup.sections%3Drepositories%26people.limit%3D24%26people.identicons%3Dfalse%26people.identicons.hide%3Dfalse%26people.size%3D28%26people.types%3Dfollowers%252C%2520following%26people.shuffle%3Dfalse%26config.timezone%3DAsia%252FColombo%26config.twemoji%3Dtrue%26config.display%3Dlarge" width="100%" alt="Metrics"> </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/YourGitHubUsername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&followup=1&repositories=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&followup.sections=repositories&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FColombo&config.twemoji=true&config.display=large" width="100%" alt="Metrics">
-</p>
-
----
-
-<!-- Connect Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Let's Connect & Collaborate
+🌐 Let's Connect & Collaborate
+<p align="center">   <a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   </a>   <a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_HANDLE">     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>   </a>   <a href="https://YOUR_PORTFOLIO_URL.com">     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>   </a>   <a href="mailto:YOUR_EMAIL@example.com">     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>   </a>   <a href="https://www.google.com/search?q=https://instagram.com/YOUR_INSTAGRAM_HANDLE">     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>   </a>   <a href="https://www.google.com/search?q=https://discord.gg/YOUR_DISCORD_SERVER_ID">     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>   </a>   <a href="https://www.google.com/search?q=https://dev.to/YOUR_DEV_TO_USERNAME">     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>   </a>   <a href="https://www.google.com/search?q=https://medium.com/%40YOUR_MEDIUM_USERNAME">     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>   </a>   <a href="https://www.google.com/search?q=https://stackoverflow.com/users/YOUR_STACKOVERFLOW_USER_ID">     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>   </a>   <a href="https://www.google.com/search?q=https://www.youtube.com/%40YOUR_YOUTUBE_CHANNEL">     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>   </a> </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://dev.to/yourprofile">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://stackoverflow.com/users/yourprofile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://www.youtube.com/@yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
-
-<!-- Support Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ☕ Support My Work
+☕ Support My Work
+<p align="center">   <a href="https://www.google.com/search?q=https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME">     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=YOUR_BUYMEACOFFEE_USERNAME&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="200" alt="Buy Me A Coffee"/>   </a>   <a href="https://ko-fi.com/YOUR_KOFI_USERNAME">     <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" alt="Ko-fi"/>   </a> </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourprofile">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourprofile&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="200" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/yourprofile">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" alt="Ko-fi"/>
-  </a>
-</p>
+<p align="center">   <a href="https://www.google.com/search?q=https://www.patreon.com/YOUR_PATREON_USERNAME">     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>   </a>   <a href="https://www.google.com/search?q=https://github.com/sponsors/YOUR_GITHUB_USERNAME_HERE">     <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>   </a> </p>
 
-<p align="center">
-  <a href="https://www.patreon.com/yourprofile">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-  </a>
-  <a href="https://github.com/sponsors/YourGitHubUsername">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
-  </a>
-</p>
-
----
-
-<!-- Fun Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎮 When I'm Not Coding
+🎮 When I'm Not Coding
+<table align="center" width="100%">   <tr>     <td align="center" width="33%">       <img src="https://user-images.githubusercontent.com/74038190/216655834-dfa9d245-018c-4ce2-b7c0-55e5f0622a50.gif" width="100" alt="Learning"/>      
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655834-dfa9d245-018c-4ce2-b7c0-55e5f0622a50.gif" width="100" alt="Learning"/>
-      <br>
-      <strong>Learning New Tech</strong>
-      <br>
-      <sub>Always curious about the latest frameworks and tools</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" alt="Open Source"/>
-      <br>
-      <strong>Contributing to Open Source</strong>
-      <br>
-      <sub>Giving back to the community that taught me</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100" alt="Writing"/>
-      <br>
-      <strong>Technical Writing</strong>
-      <br>
-      <sub>Sharing knowledge through blogs and tutorials</sub>
-    </td>
-  </tr>
-</table>
 
----
+      <strong>Learning New Tech</strong>      
 
-<!-- Visitors Counter -->
+
+      <sub>Always curious about the latest frameworks and tools</sub>     </td>     <td align="center" width="33%">       <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" alt="Open Source"/>      
+
+
+      <strong>Contributing to Open Source</strong>      
+
+
+      <sub>Giving back to the community that taught me</sub>     </td>     <td align="center" width="33%">       <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100" alt="Writing"/>      
+
+
+      <strong>Technical Writing</strong>      
+
+
+      <sub>Sharing knowledge through blogs and tutorials</sub>     </td>   </tr> </table>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 👀 Visitor Count
+👀 Visitor Count
+<p align="center">   <img src="https://www.google.com/search?q=https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME_HERE/count.svg" alt="Visitor Count" /> </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" />
-</p>
+<p align="center">   <img src="https://www.google.com/search?q=https://count.getloli.com/get/%40YOUR_GITHUB_USERNAME_HERE%3Ftheme%3Drule34" alt="Profile Views" /> </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@YourGitHubUsername?theme=rule34" alt="Profile Views" />
-</p>
-
----
-
-<!-- Final Quote Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">💡 Philosophy</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22" alt="Philosophy"/>
-</p>
+<p align="center">   <img src="https://www.google.com/search?q=https://readme-typing-svg.vercel.app%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D6A5ACD%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3D%2522First%252C%2Bsolve%2Bthe%2Bproblem.%2BThen%252C%2Bwrite%2Bthe%2Bcode.%2522%3B%2522Code%2Bis%2Blike%2Bhumor.%2BWhen%2Byou%2Bhave%2Bto%2Bexplain%2Bit%252C%2Bit%27s%2Bbad.%2522%3B%2522Make%2Bit%2Bwork%252C%2Bmake%2Bit%2Bright%252C%2Bmake%2Bit%2Bfast.%2522%3B%2522Clean%2Bcode%2Balways%2Blooks%2Blike%2Bit%2Bwas%2Bwritten%2Bby%2Bsomeone%2Bwho%2Bcares.%2522%3B%2522The%2Bbest%2Berror%2Bmessage%2Bis%2Bthe%2Bone%2Bthat%2Bnever%2Bshows%2Bup.%2522" alt="Philosophy"/> </p>
 
----
-
-<!-- Skill Progress Bars -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 Skill Levels
+📊 Skill Levels
+<p align="center">   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,go,rust,docker,kubernetes,aws,gcp,azure,mongodb,postgres,redis,git,linux,vscode&perline=10" /> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,go,rust,docker,kubernetes,aws,gcp,azure,mongodb,postgres,redis,git,linux,vscode&perline=10" />
-</p>
+<details> <summary><b>📈 Detailed Skill Breakdown</b></summary>
 
-<details>
-<summary><b>📈 Detailed Skill Breakdown</b></summary>
-<br>
 
-**Frontend Development**
-- React/Next.js ████████████████████ 95%
-- Vue.js/Nuxt.js ███████████████████░ 90%
-- TypeScript ████████████████████ 95%
-- UI/UX Design ██████████████████░░ 85%
+Frontend Development
 
-**Backend Development**
-- Node.js/Express ████████████████████ 95%
-- Python/Django ███████████████████░ 90%
-- Java/Spring Boot ██████████████████░░ 85%
-- API Design ████████████████████ 95%
+React/Next.js ████████████████████ 95%
 
-**Database Management**
-- MongoDB ████████████████████ 95%
-- PostgreSQL ███████████████████░ 90%
-- Redis ██████████████████░░ 85%
-- Database Design ████████████████████ 95%
+Vue.js/Nuxt.js ███████████████████░ 90%
 
-**DevOps & Cloud**
-- Docker/Kubernetes ███████████████████░ 90%
-- AWS ██████████████████░░ 85%
-- CI/CD ███████████████████░ 90%
-- Infrastructure as Code ██████████████████░░ 85%
+TypeScript ████████████████████ 95%
 
-**Other Skills**
-- System Design ████████████████████ 95%
-- Problem Solving ████████████████████ 100%
-- Team Collaboration ████████████████████ 95%
-- Code Review ███████████████████░ 90%
+UI/UX Design ██████████████████░░ 85%
+
+Backend Development
+
+Node.js/Express ████████████████████ 95%
+
+Python/Django ███████████████████░ 90%
+
+Java/Spring Boot ██████████████████░░ 85%
+
+API Design ████████████████████ 95%
+
+Database Management
+
+MongoDB ████████████████████ 95%
+
+PostgreSQL ███████████████████░ 90%
+
+Redis ██████████████████░░ 85%
+
+Database Design ████████████████████ 95%
+
+DevOps & Cloud
+
+Docker/Kubernetes ███████████████████░ 90%
+
+AWS ██████████████████░░ 85%
+
+CI/CD ███████████████████░ 90%
+
+Infrastructure as Code ██████████████████░░ 85%
+
+Other Skills
+
+System Design ████████████████████ 95%
+
+Problem Solving ████████████████████ 100%
+
+Team Collaboration ████████████████████ 95%
+
+Code Review ███████████████████░ 90%
 
 </details>
 
----
-
-<!-- GitHub Wrapped Style Stats -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎊 GitHub Wrapped 2025
+🎊 GitHub Wrapped 2025
+<p align="center">   <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DFF6B6B%26icon_color%3DFFD700%26text_color%3DFFFFFF%26count_private%3Dtrue%26include_all_commits%3Dtrue%26custom_title%3D📊%20My%20GitHub%20Journey" width="100%"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=📊%20My%20GitHub%20Journey" width="100%"/>
-</p>
-
----
-
-<!-- Random Jokes -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 😄 Random Dev Meme
+😄 Random Dev Meme
+<p align="center">   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="100%" /> </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="100%" />
-</p>
-
----
-
-<!-- GitHub Skyline -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏙️ My GitHub Skyline
+🏙️ My GitHub Skyline
+<p align="center">   <a href="https://www.google.com/search?q=https://skyline.github.com/YOUR_GITHUB_USERNAME_HERE/2025">     <img src="https://img.shields.io/badge/View%20My%202025%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>   </a> </p>
 
-<p align="center">
-  <a href="https://skyline.github.com/YourGitHubUsername/2025">
-    <img src="https://img.shields.io/badge/View%20My%202025%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
-</p>
-
----
-
-<!-- Badges Collection -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏅 Certifications & Achievements
+🏅 Certifications & Achievements
+<p align="center">   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>   <img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>   <img src="https://img.shields.io/badge/Microsoft-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>   <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>   <img src="https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
-
----
-
-<!-- Code Time Tracker -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ⏰ Coding Activity
+⏰ Coding Activity
+Plaintext
 
-```text
-🌞 Morning    ████████░░░░░░░░  35%
-🌆 Daytime    █████████████░░░  65%
-🌃 Evening    ████████████████  80%
-🌙 Night      ███████████████░  75%
-```
+🌞 Morning    ████████░░░░░░░░  35%
+🌆 Daytime    █████████████░░░  65%
+🌃 Evening    ████████████████  80%
+🌙 Night      ███████████████░  75%
+<p align="center">   <img src="https://www.google.com/search?q=https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID_HERE.svg" alt="Total time coded since Dec 31 2020" /> </p>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Total time coded since Dec 31 2020" />
-</p>
-
----
-
-<!-- Repo Analytics -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📦 Repository Analytics
+📦 Repository Analytics
+<p align="center">   <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical" width="100%" alt="Profile Summary"/> </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=radical" width="100%" alt="Profile Summary"/>
-</p>
+<p align="center">   <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical" width="49%" alt="Repos per Language"/>   <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical" width="49%" alt="Most Commit Language"/> </p>
+
+<p align="center">   <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical" width="49%" alt="Stats"/>   <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26theme%3Dradical" width="49%" alt="Productive Time"/> </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">🚀 Let's Build Something Amazing Together!</h2>
+
+<p align="center">   <img src="https://www.google.com/search?q=https://readme-typing-svg.vercel.app%3Ffont%3DFira%2BCode%26size%3D18%26duration%3D2000%26pause%3D1000%26color%3DA177F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3D%25F0%259F%2593%25A7%2BOpen%2Bfor%2BCollaborations%3B%25F0%259F%2592%25BC%2BAvailable%2Bfor%2BFreelance%2BWork%3B%25F0%259F%25A4%2BAlways%2BHappy%2Bto%2BHelp%3B%25E2%25AD%2590%2BDon%27t%2BForget%2Bto%2BStar%2BMy%2BRepos!" alt="Footer Typing"/> </p>
+
+<p align="center">   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>   <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge" alt="Powered by Coffee"/>   <img src="https://img.shields.io/badge/Built%20with-💻-blue?style=for-the-badge" alt="Built with Code"/> </p>
+
+<p align="center">   <sub>✨ <strong>Created with passion by Heshan Sathyanga</strong> ✨</sub>  
+
+
+  <sub>⭐ Star my repositories if you find them useful! ⭐</sub> </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+<p align="center">   <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME_HERE%26style%3Dfor-the-badge%26color%3Dblueviolet%26label%3DTOTAL%2BPROFILE%2BVIEWS" alt="Profile Views"/> </p>
+
+<div align="center">
+
+📝 License
+This profile README is inspired by the amazing GitHub community.
+
+Copyright © 2025 Heshan Sathyanga. All rights reserved.
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourGitHubUsername&theme=radical" width="49%" alt="Repos per Language"/>
