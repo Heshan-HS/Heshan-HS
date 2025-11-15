@@ -1,4 +1,12 @@
-# Heshan Sathyanga
+<h1 align="center">⚡ Heshan Sathyanga</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/gradient-wave.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Next.js+%7C+Node.js+%7C+DevOps;Crafting+Modern+%26+Animated+Apps;2025+Premium+Developer+Profile" />
+</p>
 
 <p align="center">
   <a href="#about"><img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/hero-animated.gif" alt="animated-hero" width="800"/></a>
@@ -15,6 +23,9 @@
 
 ## 👋 Hi — I'm Heshan
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/fire-gradient.gif" width="40"/>
+</p>
 Full‑stack Software Engineer | Building scalable web apps, delightful UIs, and resilient backend systems. I craft production-ready products with a focus on performance, developer experience, and clean architecture.
 
 > ✨ This README is styled for **2025** — modern, animated, and resume-ready. Replace the placeholder images/GIFs with your own assets (profile GIF, demo GIFs).
@@ -23,16 +34,22 @@ Full‑stack Software Engineer | Building scalable web apps, delightful UIs, and
 
 ## 🚀 What I do
 
-* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite — design-first, accessibility-minded interfaces.
-* **Backend:** Node.js, Express, Fastify, Go, Python (FastAPI), Serverless (AWS Lambda / Cloud Run).
-* **Data & Infra:** PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Terraform, CI/CD pipelines.
-* **AI & Tools:** Prompt engineering, model integrations, LangChain-style pipelines, Vector DB basics.
-* **Other:** Web3 primitives, realtime apps (WebSockets), GraphQL, testing & observability.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/rocket-launch.gif" width="60"/>
+</p>
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite — design-first, accessibility-minded interfaces.
+- **Backend:** Node.js, Express, Fastify, Go, Python (FastAPI), Serverless (AWS Lambda / Cloud Run).
+- **Data & Infra:** PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Terraform, CI/CD pipelines.
+- **AI & Tools:** Prompt engineering, model integrations, LangChain-style pipelines, Vector DB basics.
+- **Other:** Web3 primitives, realtime apps (WebSockets), GraphQL, testing & observability.
 
 ---
 
 ## ⭐ Featured Projects
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/project-glow.gif" width="60"/>
+</p>
 > Replace the links with your real repos. Add GIFs/snippets to show the animated demo.
 
 ### 1) **NovaPortal** — Enterprise dashboard (Next.js, Tailwind, PostgreSQL)
@@ -97,6 +114,9 @@ pnpm dev
 
 ## 📈 GitHub Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsneerajshr/animated-assets/main/activity-bars.gif" width="400"/>
+</p>
 ```md
 <!-- Contribution Graph (animated GIF placeholder) -->
 ![contribution-graph](https://ghchart.rshah.org/HeshanSathyanga)
