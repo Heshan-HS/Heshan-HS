@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=200&section=header&text=Heshan%20Sathyanga&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20%26%20Network%20Architect&descSize=18&descAlignY=62" width="100%" alt="Heshan Sathyanga Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=200&section=header&text=Heshan%20Sathyanga&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20and%20Network%20Architect&descSize=18&descAlignY=62" width="100%" alt="Heshan Sathyanga Header" />
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://github.com/Heshan-HS">
