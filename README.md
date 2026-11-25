@@ -59,12 +59,17 @@ I'm **R.M. Heshan Sathyanga**, a Full-Stack Software Engineer and Systems Archit
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Heshan-HS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan-HS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Heshan-HS&show_icons=true&count_private=true&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=38BDF8&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Heshan-HS&background=0D1117&border=1E293B&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=Heshan-HS&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=E2E8F0&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan-HS&layout=compact&langs_count=6&bg_color=0D1117&border_color=1E293B&title_color=38BDF8&text_color=E2E8F0&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heshan-HS&theme=tokyo_night&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Heshan-HS&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&border_color=1E293B&color=38BDF8&line=38BDF8&point=F59E0B&area=true&area_color=0EA5E9&title_color=38BDF8&radius=10" alt="Contribution Activity Graph" />
 </div>
 
 ---
